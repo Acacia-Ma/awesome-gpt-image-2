@@ -49,6 +49,7 @@ GPT-Image2 交流群现已改为付费加入。请登录[付费群页面](https:
 | <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | 项目赞助方。PPToken 提供 ChatGPT、Claude、Gemini 等主流 AI 模型的 API 中转和 Key 分发能力，支持低延迟、高可用、按量付费和灵活订阅。 |
 | <a href="https://ciyuan.today/"><img src="data/images/sponsors/ciyuan-api.jpg" alt="词元 API" width="240"></a> | 项目赞助方。词元 API 是一个面向开发者的 AI 聚合平台，提供稳定、低延迟的大模型 API 服务，也支持本项目持续探索 GPT Image 2 的实用工作流。 |
 | <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/GitHub%20Sponsors-freestylefly-ff69b4?style=for-the-badge" alt="GitHub Sponsors" width="240"></a> | 社区赞助入口。GitHub Sponsors 将用于持续采集案例、维护网站、整理工业级模板与 Agent Skill。 |
+| <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | 感谢 PackyCode 赞助本项目！PackyCode 是一家稳定、高效的 API 中转服务商，提供 Claude Code、Codex、Gemini 等多种中转服务，具备自动故障转移、智能路由和无限并发等功能，帮助 AI 编程提升生产效率。通过此[注册链接](https://www.packyapi.ai/register?aff=CV0c)即可开始使用。 |
 
 <a name="section-vision"></a>
 

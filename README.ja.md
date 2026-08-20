@@ -46,6 +46,7 @@ WeChat で **苍何(Canghe)** を検索するか、下の QR カードをスキ�
 | <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | プロジェクトスポンサー。PPToken は ChatGPT、Claude、Gemini など主要 AI モデル向けの API リレーとキー配布を提供し、低遅延、高可用性、従量課金、柔軟なサブスクリプションに対応しています。 |
 | <a href="https://ciyuan.today/"><img src="data/images/sponsors/ciyuan-api.jpg" alt="Ciyuan API" width="240"></a> | プロジェクトスポンサー。Ciyuan API は、安定した低遅延の大規模モデル API サービスを提供する AI 集約プラットフォームで、本プロジェクトの GPT Image 2 ワークフロー探索を支援しています。 |
 | <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/GitHub%20Sponsors-freestylefly-ff69b4?style=for-the-badge" alt="GitHub Sponsors" width="240"></a> | コミュニティスポンサー窓口。GitHub Sponsors は、事例収集、Web サイト保守、産業レベルテンプレートの整理、Agent Skill 更新の継続に使われます。 |
+| <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | PackyCode による本プロジェクトへのサポートに感謝します。PackyCode は Claude Code、Codex、Gemini などに対応する、安定性と処理性能に優れた API リレープロバイダーです。自動フェイルオーバー、スマートルーティング、無制限の同時実行により、AI コーディングの生産性を高めます。[こちらから登録](https://www.packyapi.ai/register?aff=CV0c)して利用を始められます。 |
 
 <a name="section-vision"></a>
 
