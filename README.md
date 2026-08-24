@@ -20,9 +20,6 @@
   <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>
 </p>
 
-> Updated irregularly with new workflows. Stars are welcome.
-> This project is sponsored by [Ciyuan API](https://ciyuan.today/), an AI aggregation platform for cost-effective GPT Image 2 access.
-
 ## 🌐 Visual Website
 
 Use the live site at [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) to browse the gallery as a product experience: open large previews, copy full prompts, filter by style or scenario, test generation after Google sign-in, and jump back to the source case on GitHub.
@@ -54,8 +51,6 @@ For payment, access, refund, or product questions, follow the WeChat official ac
 | <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | Thanks to PackyCode for sponsoring this project! PackyCode is a stable, high-performance API relay provider for Claude Code, Codex, Gemini, and more. Automatic failover, smart routing, and unlimited concurrency help turn AI coding into a reliable productivity tool. [Register here](https://www.packyapi.ai/register?aff=CV0c) to get started. |
 | <a href="https://doloffer.com/friend/HuHEKQOk"><img src="data/images/sponsors/doloffer.jpg" alt="DolOffer" width="240"></a> | Thank you to DolOffer for supporting this project. DolOffer is a platform focused on digital product recommendations and deal sharing, helping users quickly discover useful tools, services, and limited-time benefits. It offers popular subscriptions including YouTube Premium, Claude, ChatGPT Plus, Spotify, and Apple Music at prices as low as 30% of official pricing or even lower, with genuine stable service and worry-free support. Register through our [exclusive link](https://doloffer.com/friend/HuHEKQOk) and enter promo code `AI8888` when topping up to get an extra 10% off. |
 | <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | Project sponsor. PPToken provides API relay and key distribution for ChatGPT, Claude, Gemini, and other mainstream AI models, with low-latency access, high availability, pay-as-you-go billing, and flexible subscription plans. |
-| <a href="https://ciyuan.today/"><img src="data/images/sponsors/ciyuan-api.jpg" alt="Ciyuan API" width="240"></a> | Project sponsor. Ciyuan API is an AI aggregation platform for stable, low-latency large-model API services, and supports this project in making GPT Image 2 exploration more practical for developers. |
-| <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/GitHub%20Sponsors-freestylefly-ff69b4?style=for-the-badge" alt="GitHub Sponsors" width="240"></a> | Community sponsor channel. GitHub Sponsors helps fund ongoing case collection, website maintenance, industrial template distillation, and Agent Skill updates. |
 
 <a name="section-vision"></a>
 

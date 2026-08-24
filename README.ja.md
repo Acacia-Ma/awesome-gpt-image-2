@@ -19,9 +19,6 @@
   <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a> | <strong>日本語</strong>
 </p>
 
-> 新しいワークフローや活用例を不定期に更新しています。Star をいただけると励みになります。
-> 本プロジェクトは、GPT Image 2 を高いコストパフォーマンスで利用できる AI 集約プラットフォーム [Ciyuan API](https://ciyuan.today/) の支援を受けています。
-
 ## 🌐 ビジュアル Web サイト
 
 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) では、プロダクトとして整備された体験でギャラリーを閲覧できます。大きなプレビューの確認、プロンプト全文のコピー、スタイルやシナリオによる絞り込み、Google ログイン後の生成テスト、GitHub 上の元ケースへの移動ができます。
@@ -51,8 +48,6 @@ WeChat で **苍何(Canghe)** を検索するか、下の QR カードをスキ�
 | <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | PackyCode による本プロジェクトへのサポートに感謝します。PackyCode は Claude Code、Codex、Gemini などに対応する、安定性と処理性能に優れた API リレープロバイダーです。自動フェイルオーバー、スマートルーティング、無制限の同時実行により、AI コーディングの生産性を高めます。[こちらから登録](https://www.packyapi.ai/register?aff=CV0c)して利用を始められます。 |
 | <a href="https://doloffer.com/friend/HuHEKQOk"><img src="data/images/sponsors/doloffer.jpg" alt="DolOffer" width="240"></a> | DolOffer による本プロジェクトへのサポートに感謝します。DolOffer は、デジタル製品のおすすめとお得情報の共有に特化したプラットフォームで、注目すべきツール、サービス、期間限定特典を素早く見つける手助けをします。YouTube Premium、Claude、ChatGPT Plus、Spotify、Apple Music などの人気サブスクリプションを、公式価格の 3 割程度またはそれ以下で利用できる場合があり、正規で安定したサービスと安心できるサポートを提供します。[専用リンク](https://doloffer.com/friend/HuHEKQOk)から登録し、チャージ時にクーポンコード `AI8888` を入力すると、さらに 10% オフになります。 |
 | <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | プロジェクトスポンサー。PPToken は ChatGPT、Claude、Gemini など主要 AI モデル向けの API リレーとキー配布を提供し、低遅延、高可用性、従量課金、柔軟なサブスクリプションに対応しています。 |
-| <a href="https://ciyuan.today/"><img src="data/images/sponsors/ciyuan-api.jpg" alt="Ciyuan API" width="240"></a> | プロジェクトスポンサー。Ciyuan API は、安定した低遅延の大規模モデル API サービスを提供する AI 集約プラットフォームで、本プロジェクトの GPT Image 2 ワークフロー探索を支援しています。 |
-| <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/GitHub%20Sponsors-freestylefly-ff69b4?style=for-the-badge" alt="GitHub Sponsors" width="240"></a> | コミュニティスポンサー窓口。GitHub Sponsors は、事例収集、Web サイト保守、産業レベルテンプレートの整理、Agent Skill 更新の継続に使われます。 |
 
 <a name="section-vision"></a>
 
