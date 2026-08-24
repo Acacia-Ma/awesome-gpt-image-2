@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://trendshift.io/repositories/28623?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28623">
+    <img src="https://trendshift.io/api/badge/repositories/28623" alt="freestylefly/awesome-gpt-image-2 | Trendshift" width="250" height="55">
+  </a>
+</p>
+
+<p align="center">
   <a href="./README.md">English</a> | <strong>简体中文</strong> | <a href="./README.ja.md">日本語</a>
 </p>
 
